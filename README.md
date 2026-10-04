@@ -19,7 +19,7 @@
 | **Problem Statement Title** | AI-ML Based Intelligent Dead Reckoning System for Seamless Navigation |
 | **Organization / Ministry** | **Indian Space Research Organisation (ISRO)** |
 | **Category** | Software |
-| **Theme** | Smart Vehicles / Defense & Aerospace / Mobility / Smart Automation |
+| **Theme** | smart vehicle
 | **Solution Name** | **OffNav (v7.0)** |
 
 ---
