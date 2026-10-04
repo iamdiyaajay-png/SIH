@@ -128,7 +128,7 @@ $$\mathbf{x}_k = \begin{bmatrix} p_E & p_N & v_E & v_N & \psi & b_a & b_\omega \
 ## 📥 Installation & Verification
 
 1. Download the release archive from [`build/OffNav_v1.0_Release_APK.zip`](build/OffNav_v1.0_Release_APK.zip).
-2. Unzip the OFFNav.apk zip file
+2. Unzip the OffNav.apk zip file
 3. Extract `OffNav.apk`.
 4. Install on any Android device running Android 10 or higher (`adb install OffNav.apk` or direct file installation).
 5. Grant Location and Sensor permissions on first run.
