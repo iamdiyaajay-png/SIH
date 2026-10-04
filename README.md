@@ -148,6 +148,12 @@ $$\mathbf{x}_k = \begin{bmatrix} p_E & p_N & v_E & v_N & \psi & b_a & b_\omega \
 
 ## 👥 Submission Team
 
-- **Team Lead**: Diya Ajay ([iamdiyaajay-png](https://github.com/iamdiyaajay-png))
+- **Team Lead**: Ananthapadmanabhan V
+- **Team members**:Berry Maria Prince
+                   Diya Ajay
+                   Sherin R Fertin
+                   Buddha Gosh Sakyang Rahula
+                   Chris Jubin
+                   Ananthapadmanabhan V
 - **Hackathon**: Smart India Hackathon 2026 (SIH 2026)
 - **Problem Code**: SIH26168 (ISRO)
